@@ -1,2 +1,2 @@
 # room-3-scoping-exercise
-Scoping exercise for Research Data Science training.
+Scoping exercise for Turing Research Data Science course 
